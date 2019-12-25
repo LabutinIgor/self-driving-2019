@@ -1,0 +1,8 @@
+prefix=/home/inlabutin/HSE/self-driving/last-hw/gym-duckietown/ros/catkin_ws/devel
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/inlabutin/HSE/self-driving/last-hw/gym-duckietown/ros/catkin_ws/devel/lib 
+Requires: 

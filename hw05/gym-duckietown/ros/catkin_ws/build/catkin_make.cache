@@ -1,0 +1,2 @@
+demo:duckietown_msgs
+-DCATKIN_DEVEL_PREFIX=/home/inlabutin/HSE/self-driving/last-hw/gym-duckietown/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/inlabutin/HSE/self-driving/last-hw/gym-duckietown/ros/catkin_ws/install -G Unix Makefiles

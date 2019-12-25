@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/inlabutin/HSE/self-driving/last-hw/gym-duckietown/ros/catkin_ws/devel/setup.sh
